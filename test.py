@@ -1,1 +1,2 @@
-print('ориывпи')
+print('niiiiiiiif niiiiiiif')
+print('naaaaaaaaaaaf naaaaaaaaaaaf')
