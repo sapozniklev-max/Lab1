@@ -35,6 +35,7 @@ def uzor_animated():
     os.system("cls")
     anim_1(height,width)
     anim_2(height,width)
+    print(f"{CSI}10;10H")
 
 CSI = '\x1b['
 RESET = f'{CSI}0m'
